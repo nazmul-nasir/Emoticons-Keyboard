@@ -1,0 +1,201 @@
+[
+    {
+        "outputFile": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 55,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 37,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 37,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 63,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 63,
+                        "endOffset": 283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 53,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 53,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 52,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 52,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 50,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 168,
+                        "endColumn": 50,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 37,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 37,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "C:\\Users\\User\\Downloads\\GUISkeletonForiTelModileDialerAS\\Emoticons-Keyboard-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
